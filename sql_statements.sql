@@ -1,6 +1,7 @@
 CREATE DATABASE project1;
 
-USE project1;
+--  gebruik dit als je de database wil selecteren asl je default.
+-- USE project1;
 
 --Ik heb een TABLE gemaakt voor accounts met als primary key (id).
 CREATE TABLE ACCOUNT (
