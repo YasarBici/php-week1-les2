@@ -9,7 +9,7 @@
     <form class="" action="index.php" method="post">
       <input type="text" name="username" placeholder="Username"><br>
       <input type="password" name="password" placeholder="Password"><br>
-      <button type="submit" name="signin_submit">login</button><br>
+      <input type="submit" name="signin_submit" value="Login"><br>
       <a href="signup.php">Sign up</a><br>
       <a href="lostpsw.php">Lost password?</a>
     </form>
