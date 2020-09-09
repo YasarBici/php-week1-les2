@@ -7,7 +7,7 @@
   <body>
     <form class="" action="lostpsw.php" method="post">
       <input type="email" name="email_lostpsw" placeholder="Email">
-      <button type="submit" name="lostpsw_submit">Send E-mail</button>
+      <input type="submit" name="lostpsw_submit" value="Send E-mail">
     </form>
   </body>
 </html>
