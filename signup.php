@@ -13,7 +13,7 @@
       <input type="text" name="gebruikersnaam" placeholder="Gebruikersnaam" required><br>
       <input type="password" name="wachtwoord" placeholder="Wachtwoord" required><br>
       <input type="password" name="herhaal_wachtwoord" placeholder="Herhaal wachtwoord" required><br>
-      <button type="submit" name="signup_submit">Sign up</button>
+      <input type="submit" name="signup_submit" value="Sign up">
     </form>
   </body>
 </html>
