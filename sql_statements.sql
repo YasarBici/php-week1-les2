@@ -11,6 +11,7 @@ CREATE TABLE ACCOUNT (
 );
 
 --Ik heb een TABLE gemaakt voor personen, account_id refereert naar de TABLE account.
+--Ik heb NOT NULL gebruikt bij dingen die verplicht ingevuld moeten worden.
 CREATE TABLE PERSOON (
     id INT NOT NULL AUTO_INCREMENT,
     voornaam TEXT(250) NOT NULL,
